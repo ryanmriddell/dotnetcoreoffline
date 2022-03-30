@@ -1,0 +1,16 @@
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/libhostpolicy.so
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/libhostfxr.so
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.deps.json
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.runtimeconfig.json
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.runtimeconfig.dev.json
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.dll
+/Users/swadmin/devspace/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.pdb
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.csproj.AssemblyReference.cache
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.AssemblyInfoInputs.cache
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.AssemblyInfo.cs
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.csproj.CoreCompileInputs.cache
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.dll
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.pdb
+/Users/swadmin/devspace/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/linux-x64/dotnet-core-hello-world.genruntimeconfig.cache

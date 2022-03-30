@@ -6,6 +6,8 @@
     <AssemblyName>dotnet-core-hello-world</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>dotnet-core-hello-world</PackageId>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = dotnet-core-hello-world
+build_property.ProjectDir = /Users/swadmin/devspace/dotnet-core-hello-world/
